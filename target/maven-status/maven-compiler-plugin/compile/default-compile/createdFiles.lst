@@ -1,0 +1,7 @@
+com/example/goodreads/service/PublisherJpaService.class
+com/example/goodreads/model/Publisher.class
+com/example/goodreads/repository/BookJpaRepository.class
+com/example/goodreads/repository/PublisherRepository.class
+com/example/goodreads/controller/PublisherController.class
+com/example/goodreads/repository/PublisherJpaRepository.class
+com/example/goodreads/model/Book.class
